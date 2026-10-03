@@ -10,9 +10,9 @@
     <Version>1.0.0</Version>
     <Description>A .NET client for the UniFi Mobility API (api.ui.com), covering workspaces, mobile routing devices (UMR), their clients, and device configuration.</Description>
     <Authors>Daniël van Ginneken</Authors>
-    <RepositoryUrl>https://github.com/DanielvG-IT/UniFi.NET</RepositoryUrl>
+    <RepositoryUrl>https://github.com/danielvanginneken/UniFi.NET</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/DanielvG-IT/UniFi.NET</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/danielvanginneken/UniFi.NET</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

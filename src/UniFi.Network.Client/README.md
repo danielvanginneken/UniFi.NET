@@ -2,7 +2,7 @@
 
 A .NET client for the [UniFi Network API](https://developer.ui.com/network/), targeting either a
 local console directly or the Site Manager cloud connector — no VPN required. Part of the
-[UniFi.NET](https://github.com/DanielvG-IT/UniFi.NET) family. Zero third-party dependencies.
+[UniFi.NET](https://github.com/danielvanginneken/UniFi.NET) family. Zero third-party dependencies.
 
 ```bash
 dotnet add package UniFi.Network.Client
@@ -42,6 +42,6 @@ Generate an API key at [unifi.ui.com](https://unifi.ui.com) or on your console.
 ## Documentation
 
 Full docs, other clients (Protect, Site Manager, Mobility), and source:
-**https://github.com/DanielvG-IT/UniFi.NET**
+**https://github.com/danielvanginneken/UniFi.NET**
 
 MIT licensed.

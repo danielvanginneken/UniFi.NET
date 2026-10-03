@@ -3,7 +3,7 @@
 A .NET client for the [UniFi Site Manager API](https://developer.ui.com/site-manager/) — the
 account-wide cloud API (`api.ui.com`) spanning every console on your account: hosts, sites, devices,
 ISP metrics, and SD-WAN configs. Cloud-only. Part of the
-[UniFi.NET](https://github.com/DanielvG-IT/UniFi.NET) family. Zero third-party dependencies.
+[UniFi.NET](https://github.com/danielvanginneken/UniFi.NET) family. Zero third-party dependencies.
 
 ```bash
 dotnet add package UniFi.SiteManager.Client
@@ -33,6 +33,6 @@ pagination (`SiteManagerPage<T>` with `NextToken`/`HasMore`). Version-dependent 
 ## Documentation
 
 Full docs, other clients (Network, Protect, Mobility), and source:
-**https://github.com/DanielvG-IT/UniFi.NET**
+**https://github.com/danielvanginneken/UniFi.NET**
 
 MIT licensed.

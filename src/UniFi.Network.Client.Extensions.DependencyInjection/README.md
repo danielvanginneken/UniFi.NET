@@ -2,7 +2,7 @@
 
 Dependency-injection integration for [UniFi.Network.Client](https://www.nuget.org/packages/UniFi.Network.Client),
 registering the client through `IHttpClientFactory` for pooled, long-lived HTTP connections. Part of
-the [UniFi.NET](https://github.com/DanielvG-IT/UniFi.NET) family.
+the [UniFi.NET](https://github.com/danielvanginneken/UniFi.NET) family.
 
 ```bash
 dotnet add package UniFi.Network.Client.Extensions.DependencyInjection
@@ -42,6 +42,6 @@ underlying primary handler, matching the standalone client.
 
 ## Documentation
 
-Full docs and source: **https://github.com/DanielvG-IT/UniFi.NET**
+Full docs and source: **https://github.com/danielvanginneken/UniFi.NET**
 
 MIT licensed.

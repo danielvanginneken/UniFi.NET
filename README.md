@@ -422,7 +422,7 @@ One-time setup (repository/organization owner):
 
 1. **Trusted Publisher policy** on NuGet.org (Account → Trusted Publishing) with:
    - Package Owner: `DanielvGinneken`
-   - Repository Owner: `DanielvG-IT`, Repository: `UniFi.NET`
+   - Repository Owner: `danielvanginneken`, Repository: `UniFi.NET`
    - Workflow File: `ci-cd.yml`, Environment: `production`
 2. A GitHub Actions **environment** named `production` (the release job references it).
 3. **Signing certificate** — register the public `.cer` under the NuGet.org organization's

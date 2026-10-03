@@ -2,7 +2,7 @@
 
 A .NET client for the [UniFi Mobility API](https://developer.ui.com/mobility/) — the account-wide
 cloud API (`api.ui.com`) for mobile routing devices (UMR): workspaces, devices, clients, and device
-configuration. Cloud-only. Part of the [UniFi.NET](https://github.com/DanielvG-IT/UniFi.NET) family.
+configuration. Cloud-only. Part of the [UniFi.NET](https://github.com/danielvanginneken/UniFi.NET) family.
 Zero third-party dependencies.
 
 ```bash
@@ -34,6 +34,6 @@ including device detail (WAN, cellular, WiFi, VPN, subscription, GPS). List endp
 ## Documentation
 
 Full docs, other clients (Network, Protect, Site Manager), and source:
-**https://github.com/DanielvG-IT/UniFi.NET**
+**https://github.com/danielvanginneken/UniFi.NET**
 
 MIT licensed.

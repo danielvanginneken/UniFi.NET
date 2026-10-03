@@ -2,7 +2,7 @@
 
 A .NET client for the [UniFi Protect API](https://developer.ui.com/protect/) — cameras, sensors,
 lights, sirens, and the rest of the Protect device fleet — over both a local console and the Site
-Manager cloud connector. Part of the [UniFi.NET](https://github.com/DanielvG-IT/UniFi.NET) family.
+Manager cloud connector. Part of the [UniFi.NET](https://github.com/danielvanginneken/UniFi.NET) family.
 Zero third-party dependencies.
 
 ```bash
@@ -40,6 +40,6 @@ Generate an API key at [unifi.ui.com](https://unifi.ui.com) or on your console.
 
 ## Documentation
 
-Full docs and source: **https://github.com/DanielvG-IT/UniFi.NET**
+Full docs and source: **https://github.com/danielvanginneken/UniFi.NET**
 
 MIT licensed.
